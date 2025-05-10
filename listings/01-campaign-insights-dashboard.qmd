@@ -1,28 +1,37 @@
 ---
-title: "Campaign Insights Dashboard"
-image: "https://placehold.co/600x400?text=Campaign+Dashboard"
-categories: [Dashboarding, Marketing Analytics, Data Visualization, Performance Metrics, Customer Insights]
+title: "Baskin-Robbins Project: Marketing Analytics Project"
+image: 
+---
+
+![](images/br-02.png)
+categories: \\\[Customer Behavior Analysis, Data Collection and Survey Design, Statistical Techniques and Validation, Visualization Exploration and Interpretation, Insights and Recommendations Based on Analytics, Segmentation and Comparative Analysis\\\]
 index: 1
 ---
 
-#### **Overview**  
-This project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.
+#### **Overview**
 
-::: {.columns}
+This project aimed to analyze customer loyalty for Baskin-Robbins, focusing on identifying key factors that drive customer satisfaction and repeat business. Using survey data from 71 respondents, the study employed statistical techniques like regression analysis and chi-square tests to explore the impact of product quality, flavor variety, and seasonal offerings on customer loyalty. The analysis revealed that product quality significantly influenced customer retention, while seasonal flavors had minimal impact. The findings were used to provide actionable recommendations for Baskin-Robbins to enhance customer loyalty, such as prioritizing product quality and exploring new customer engagement strategies.
+
+::::: columns
 ::: {.column width="50%"}
-#### **Learning Outcomes**  
-- Visualize and monitor key marketing metrics.  
-- Analyze performance trends across multiple campaigns.  
-- Identify high- and low-performing segments.  
-- Communicate insights through interactive visuals.  
-- Develop data-informed recommendations.
+#### **Learning Outcomes**
+
+-   Design and Implement Surveys.\
+-   Perform Data Cleaning and Preparation.\
+-   Apply Statistical Techniques.\
+-   Analyze Customer Behavior.\
+-   Generate Data-Driven Recommendations.\
+-   Visualize Key Insights.
 :::
+
 ::: {.column width="50%"}
-#### **Key Skills Gained**  
-- Dashboard development  
-- Campaign analytics  
-- Data wrangling in R  
-- Tableau or R Shiny visualization  
-- Performance measurement
+#### **Key Skills Gained**
+
+-   Survey Design and Data Collection\
+-   Data Cleaning and Preprocessing\
+-   Statistical Analysis\
+-   Data Visualization\
+-   Data-Driven Decision Making\
+-   Reporting and Presentation
 :::
-:::
+:::::
