@@ -67,14 +67,21 @@
     "href": "index.html",
     "title": "Hi, I’m Jonny De La Torre",
     "section": "",
-    "text": "I’m a [technical writer and digital marketer]. I specialize in transforming complex information into clear, engaging, and actionable insights."
+    "text": "I’m a technical writer and digital marketer. I transform raw data into actionable insights, blending technical expertise with creative strategy to drive impactful solutions."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Hi, I’m Jonny De La Torre",
     "section": "About Me",
-    "text": "About Me\nI hold a [Master’s of Science in Digital Marketing] from [Cal Poly Pomona]."
+    "text": "About Me\nI’m a Technical Writer – Senior Specialist at Southern California Edison and a Master of Science in Digital Marketing candidate at Cal Poly Pomona, graduating in Summer 2025. With a background in English Literature and over a decade of writing experience, I specialize in transforming complex information into clear, engaging, and actionable insights—whether through regulatory documentation, marketing analytics, or data-driven storytelling.\nI’ve written and managed over 900 pages of technical documentation, collaborated across regulatory, legal, and program teams, and contributed to high-stakes reporting initiatives. My academic work extends that clarity into digital strategy, using tools like R, Python, and Quarto to uncover insights and build reproducible workflows."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m Jonny De La Torre",
+    "section": "What I Do",
+    "text": "What I Do\n\nData Analysis & Visualization: Creating interactive and informative visualizations using R.\nDigital Marketing Strategies: Leveraging web analytics, SEO, and targeted campaigns to boost online presence.\nTechnical Writing: Developing clear, accurate, and compliant documentation, including operational procedures and user guides.\nContent Creation: Crafting engaging and informative marketing copy for web, email, and social media channels."
   },
   {
     "objectID": "index.html#lets-connect",

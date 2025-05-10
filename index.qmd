@@ -2,26 +2,36 @@
 title: "Hi, I'm Jonny De La Torre"
 ---
 
-
-::: {.columns}
+::::: columns
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/headshot.jpg){style="border-radius: 100%;"}
 :::
+
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [technical writer and digital marketer]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm a technical writer and digital marketer. I transform raw data into actionable insights, blending technical expertise with creative strategy to drive impactful solutions.
 :::
-:::
+:::::
 
 ## About Me
 
-I hold a <span class="highlight">[Master's of Science in Digital Marketing]</span> from [Cal Poly Pomona].
+I’m a Technical Writer – Senior Specialist at Southern California Edison and a Master of Science in Digital Marketing candidate at Cal Poly Pomona, graduating in Summer 2025. With a background in English Literature and over a decade of writing experience, I specialize in transforming complex information into clear, engaging, and actionable insights—whether through regulatory documentation, marketing analytics, or data-driven storytelling.
 
+I’ve written and managed over 900 pages of technical documentation, collaborated across regulatory, legal, and program teams, and contributed to high-stakes reporting initiatives. My academic work extends that clarity into digital strategy, using tools like R, Python, and Quarto to uncover insights and build reproducible workflows.
 
+## What I Do
+
+-   **Data Analysis & Visualization:** Creating interactive and informative visualizations using R.
+
+-   **Digital Marketing Strategies:** Leveraging web analytics, SEO, and targeted campaigns to boost online presence.
+
+-   **Technical Writing:** Developing clear, accurate, and compliant documentation, including operational procedures and user guides.
+
+-   **Content Creation:** Crafting engaging and informative marketing copy for web, email, and social media channels. 
 
 ## Let's Connect
 
 You can [email me](mailto:delatorre1@cpp.edu) or connect on [LinkedIn](https://www.linkedin.com/in/jonathan-de-la-torre-43a268198/).
 
----
+------------------------------------------------------------------------
 
 *Welcome to my portfolio.*
