@@ -1,0 +1,35 @@
+---
+title: "Autonomous Stores Project"
+image: "![](images/Autonomous Stores Project.jpg)"
+categories: [Experimental Design, Customer Behavior Analysis, Behavioral Analysis, Advanced Statistical Methods, Customer Segmentation, Practical Recommendations, Segmentation and Comparative Analysis]
+index: 2
+---
+### Link 
+[View Autonomous Stores Presentation](https://github.com/your-username/your-repository-name/blob/main/images/6300%20Autonomous%20Stores%20presentation.pptx.pdf)
+
+
+#### **Overview**
+
+This project analyzed the impact of autonomous store features on customer patronage, focusing on key factors like convenience, autonomy, and safety. Using a conjoint analysis approach with 700 UK participants, the study explored how different levels of in-store automation affected customer decisions. Findings revealed significant insights into customer preferences, which guided recommendations for optimizing autonomous store designs.
+
+::::: columns
+::: {.column width="50%"}
+#### **Learning Outcomes**
+
+-   Understand customer preferences for autonomous store features.
+-   Identify the impact of convenience, autonomy, and safety on patronage.
+-   Analyze customer perceptions using hierarchical linear modeling.
+-   Explore the role of store location in moderating customer behavior.
+-   Generate data-driven recommendations for autonomous store design.
+:::
+
+::: {.column width="50%"}
+#### **Key Skills Gained**
+
+-   Conjoint analysis & survey design
+-   Hierarchical linear modeling
+-   Customer behavior analysis
+-   Data storytelling & visualization
+-   Strategic recommendations development
+:::
+:::::

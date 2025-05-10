@@ -1,0 +1,32 @@
+---
+title: "Texas Home Forecasting"
+image: "https://placehold.co/600x400?text=Customer+Segmentation"
+categories: [Data-Driven Analysis and Quantitative Methods, Time Series Analysis, Data Preparation and Transformation, Visualization Exploration and Techniques, Predictive Accuracy, Investment Recommendations, Insights and Recommendations Based on Analytics, Predictive Modeling and Forecasting]
+index: 3
+---
+
+#### **Overview**  
+This project focused on analyzing the Texas housing market using the "txhousing" dataset from ggplot2, covering the period from 2000 to 2015. Our primary objective was to forecast future housing prices and sales volumes in Texas, specifically within the top five counties identified by median price. By leveraging historical data and applying advanced forecasting techniques like ARIMA, we aimed to provide actionable insights for potential investors, highlighting trends, regional price differences, and market dynamics. The analysis identified consistent upward trends in housing prices, driven by strong demand and limited supply, with regional variations in market behavior.
+
+
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Understand and apply forecasting techniques, including ARIMA, to real-world datasets.
+- Identify and interpret key market trends, including price growth and sales dynamics.
+- Evaluate regional market variations and their impact on investment decisions.
+- Develop data-driven investment recommendations based on historical analysis.
+- Enhance proficiency in data cleaning, visualization, and analysis using R.
+
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Time Series Forecasting (ARIMA Modeling)
+- Data Cleaning and Preparation (R and ggplot2)
+- Data Visualization (R - ggplot2)
+- Market Trend Analysis
+- Investment Strategy Development
+- Collaborative Research and Report Writing
+:::
+:::

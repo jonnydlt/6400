@@ -8,15 +8,16 @@ listing:
     - "index desc"
 ---
 
-Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
+In my journey as a marketing analyst, I have consistently transformed complex marketing data into clear, actionable insights, driving informed decisions and tangible business results. My experience spans a wide range of analytical techniques, including predictive modeling, pricing analysis, segmentation, and campaign performance evaluation. These projects reflect my ability to seamlessly integrate statistical tools, data visualization, and strategic thinking to solve real-world marketing challenges.
 
-Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.
+I specialize in uncovering consumer insights, optimizing pricing strategies, and evaluating marketing effectiveness, always focused on turning data into a competitive advantage. Below are selected projects that showcase my expertise in marketing analytics.
 
 ## What You’ll Find
 
-- **Campaign Performance Analysis:** Evaluating the effectiveness of digital marketing efforts using data.
-- **Data Visualization:** Turning raw datasets into intuitive dashboards and reports.
-- **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
-- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+-   **Consumer Behavior Analysis**: Identified key drivers of customer loyalty for Baskin-Robbins using regression and chi-square tests.
+-   **Pricing Optimization**: Assessed consumer willingness to pay for Netflix plans using Van Westendorp, Gabor-Granger, and Conjoint Analysis.
+-   **Customer Segmentation**: Developed customer personas through cluster analysis, revealing high-value and low-value segments.
+-   **Campaign Performance Evaluation**: Measured digital marketing effectiveness using interactive dashboards for real-time insights.
+-   **SEO & Web Analytics**: Improved website visibility and user engagement through data-driven SEO strategies.
 
----
+------------------------------------------------------------------------

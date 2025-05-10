@@ -1,11 +1,12 @@
 ---
 title: "Baskin-Robbins Project: Marketing Analytics Project"
-image: 
----
 
-![](images/br-02.png)
-categories: \\\[Customer Behavior Analysis, Data Collection and Survey Design, Statistical Techniques and Validation, Visualization Exploration and Interpretation, Insights and Recommendations Based on Analytics, Segmentation and Comparative Analysis\\\]
-index: 1
+image:  "![](images/br-02.png)" 
+
+categories: [Customer Behavior Analysis, Data Collection and Survey Design, Statistical Techniques and Validation, Visualization Exploration and Interpretation, Insights and Recommendations Based on Analytics, Segmentation and Comparative Analysis] 
+
+index: 1 
+
 ---
 
 #### **Overview**
@@ -35,3 +36,5 @@ This project aimed to analyze customer loyalty for Baskin-Robbins, focusing on i
 -   Reporting and Presentation
 :::
 :::::
+
+

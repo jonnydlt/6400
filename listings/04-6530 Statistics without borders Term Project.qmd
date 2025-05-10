@@ -1,0 +1,30 @@
+---
+title: "Statistics Without Borders Term Project"  
+image: "https://placehold.co/600x400?text=Attribution+Model"
+categories: [Customer Behavior Analysis, Survey Design and Data Collection, Attitude Measurement and Segmentation, Statistical Techniques, Risk and Concern Analysis, Practical Insights and Recommendations, Data-Driven Analysis and Quantitative Methods, Predictive Modeling and Forecasting, Visual Exploration and Interpretation, Segmentation and Comparative Analysis Insights and Recommendations Based on Analytics]
+index: 4
+---
+
+#### **Overview**  
+This project, titled "Statistics Without Borders: Survey Data Generation & Analysis," focused on understanding students' perceptions, usage, and concerns regarding generative AI tools at Cal Poly Pomona (CPP). Using a stratified survey approach, the study explored various aspects of AI interaction, including familiarity with AI tools, perceived risks, support needs, and differences in attitudes based on technical expertise. Key insights revealed significant concerns around data privacy, academic integrity, and critical thinking. The analysis also identified a strong demand for clear guidelines and training on effective AI usage.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Understand and apply survey-based data collection methods for assessing technology adoption.
+- Analyze and interpret survey data using statistical methods, including cross-tabulation and chi-square tests.
+- Evaluate student perceptions, concerns, and support needs regarding AI tool integration.
+- Identify the impact of technical expertise on attitudes toward AI usage.
+- Develop actionable recommendations for improving AI policy, training, and support.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Survey Design and Data Collection
+- Statistical Analysis (Cross-tabulation, Chi-Square Tests)
+- Data Visualization (R and RStudio)
+- Generative AI Policy Evaluation
+- Interpretation of Survey Results
+- Collaborative Research and Reporting
+
+:::
+:::

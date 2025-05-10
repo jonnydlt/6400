@@ -1,0 +1,28 @@
+---
+title: "Social Media Engagement Analysis"
+image: "https://placehold.co/600x400?text=Social+Media+Analysis"
+categories: [Social Media, Engagement Metrics, Content Strategy, Audience Analysis, Analytics]
+index: 5
+---
+
+#### **Overview**  
+The Student Exam Scores Project aimed to investigate the impact of two critical factors on students' academic performance in mathematics, reading, and writing. Specifically, the project focused on examining the effects of completing a test preparation course and parental education level on students' exam scores. Using machine learning models, including linear regression and random forest, the analysis explored how these independent variables influence students' scores across the three subjects. The results provided insights into the significance of these factors and highlighted the predictive capabilities of the models used.
+
+::: {.columns}
+::: {.column width="50%"}
+#### **Learning Outcomes**  
+- Understand the impact of test preparation courses and parental education levels on student exam performance.
+- Apply machine learning models, including linear regression and random forest, to predict educational outcomes.
+- Interpret model performance metrics such as RMSE, MAE, and R-squared to assess model accuracy.
+- Draw data-driven conclusions regarding the influence of parental education and test preparation on exam scores.
+- Develop critical skills in model selection, evaluation, and interpretation of results.
+:::
+::: {.column width="50%"}
+#### **Key Skills Gained**  
+- Proficiency in using linear regression and random forest models for educational data analysis.
+- Ability to evaluate model performance using metrics like RMSE, MAE, and R-squared.
+- Skills in data preparation, including feature selection and data cleaning.
+- Competence in interpreting statistical results and making data-driven recommendations.
+- Experience in effectively communicating analytical findings in a clear, structured format.
+:::
+:::
