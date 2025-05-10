@@ -5,7 +5,7 @@ categories: [Experimental Design, Customer Behavior Analysis, Behavioral Analysi
 index: 2
 ---
 ### Link 
-[View Autonomous Stores Presentation](https://github.com/jonnydlt/6400/blob/main/images/6300%20%20Autonomous%20stores%20presentation.pptx.pdf)
+[View Autonomous Stores Presentation](https://raw.githubusercontent.com/jonnydlt/6400/main/images/6300%20%20Autonomous%20stores%20presentation.pptx.pdf)
 
 
 #### **Overview**

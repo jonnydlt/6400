@@ -9,7 +9,7 @@ index: 1
 
 ---
 ### Link 
-[View Baskin-Robbins Project: Marketing Analytics Project](https://github.com/jonnydlt/6400/blob/main/images/6500%20%20Baskin%20Robins%20Final%20Report.pdf)
+[View Baskin-Robbins Project: Marketing Analytics Project](https://raw.githubusercontent.com/jonnydlt/6400/main/images/6500%20%20Baskin%20Robins%20Final%20Report.pdf)
 
 #### **Overview**
 
