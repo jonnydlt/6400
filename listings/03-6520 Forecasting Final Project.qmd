@@ -1,9 +1,11 @@
 ---
 title: "Texas Home Forecasting"
 image: "https://placehold.co/600x400?text=Customer+Segmentation"
-categories: [Data-Driven Analysis and Quantitative Methods, Time Series Analysis, Data Preparation and Transformation, Visualization Exploration and Techniques, Predictive Accuracy, Investment Recommendations, Insights and Recommendations Based on Analytics, Predictive Modeling and Forecasting]
+categories: [Data-Driven Analysis & Quantitative Methods, Time Series Analysis, Data Preparation & Transformation, Visualization Exploration & Techniques, Predictive Accuracy, Investment Recommendations, Insights & Recommendations Based on Analytics, Predictive Modeling & Forecasting]
 index: 3
 ---
+### Link 
+[View Autonomous Stores Presentation](https://github.com/your-username/your-repository-name/blob/main/images/6300%20Autonomous%20Stores%20presentation.pptx.pdf)
 
 #### **Overview**  
 This project focused on analyzing the Texas housing market using the "txhousing" dataset from ggplot2, covering the period from 2000 to 2015. Our primary objective was to forecast future housing prices and sales volumes in Texas, specifically within the top five counties identified by median price. By leveraging historical data and applying advanced forecasting techniques like ARIMA, we aimed to provide actionable insights for potential investors, highlighting trends, regional price differences, and market dynamics. The analysis identified consistent upward trends in housing prices, driven by strong demand and limited supply, with regional variations in market behavior.

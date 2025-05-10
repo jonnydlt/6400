@@ -3,7 +3,7 @@ title: "Baskin-Robbins Project: Marketing Analytics Project"
 
 image:  "![](images/br-02.png)" 
 
-categories: [Customer Behavior Analysis, Data Collection and Survey Design, Statistical Techniques and Validation, Visualization Exploration and Interpretation, Insights and Recommendations Based on Analytics, Segmentation and Comparative Analysis] 
+categories: [Customer Behavior Analysis, Data Collection & Survey Design, Statistical Techniques & Validation, Visualization Exploration & Interpretation, Insights & Recommendations Based on Analytics, Segmentation & Comparative Analysis] 
 
 index: 1 
 

@@ -1,9 +1,12 @@
 ---
-title: "Social Media Engagement Analysis"
+title: "Student Exam Scores Project"
 image: "https://placehold.co/600x400?text=Social+Media+Analysis"
-categories: [Social Media, Engagement Metrics, Content Strategy, Audience Analysis, Analytics]
+categories: [Data-Driven Analysis & Quantitative Methods, Predictive Modeling & Forecasting, Data Preparation and Feature Engineering, Model Evaluation, Quantitative Insights, Educational Implications, Insights & Recommendations Based on Analytics, Visual Exploration & Interpretation]
 index: 5
 ---
+
+### Link 
+[View Student Exam Scores Project](https://github.com/jonnydlt/6400/blob/main/images/6540%20Student%20Exam%20Scores%20Project.html)
 
 #### **Overview**  
 The Student Exam Scores Project aimed to investigate the impact of two critical factors on students' academic performance in mathematics, reading, and writing. Specifically, the project focused on examining the effects of completing a test preparation course and parental education level on students' exam scores. Using machine learning models, including linear regression and random forest, the analysis explored how these independent variables influence students' scores across the three subjects. The results provided insights into the significance of these factors and highlighted the predictive capabilities of the models used.

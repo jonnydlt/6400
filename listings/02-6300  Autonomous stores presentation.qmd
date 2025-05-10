@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Stores Project"
 image: "![](images/Autonomous Stores Project.jpg)"
-categories: [Experimental Design, Customer Behavior Analysis, Behavioral Analysis, Advanced Statistical Methods, Customer Segmentation, Practical Recommendations, Segmentation and Comparative Analysis]
+categories: [Experimental Design, Customer Behavior Analysis, Behavioral Analysis, Advanced Statistical Methods, Customer Segmentation, Practical Recommendations, Segmentation & Comparative Analysis]
 index: 2
 ---
 ### Link 
