@@ -1,6 +1,6 @@
 ---
 title: "Student Exam Scores Project"
-image: "https://placehold.co/600x400?text=Social+Media+Analysis"
+image: "https://placehold.co/600x400?text=Student+Exam+Scores+Project"
 categories: [Data-Driven Analysis & Quantitative Methods, Predictive Modeling & Forecasting, Data Preparation and Feature Engineering, Model Evaluation, Quantitative Insights, Educational Implications, Insights & Recommendations Based on Analytics, Visual Exploration & Interpretation]
 index: 5
 ---

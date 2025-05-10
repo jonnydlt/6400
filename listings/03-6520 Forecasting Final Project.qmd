@@ -1,6 +1,6 @@
 ---
 title: "Texas Home Forecasting"
-image: "https://placehold.co/600x400?text=Customer+Segmentation"
+image: "https://placehold.co/600x400?text=Texas+Home+Forecasting"
 categories: [Data-Driven Analysis & Quantitative Methods, Time Series Analysis, Data Preparation & Transformation, Visualization Exploration & Techniques, Predictive Accuracy, Investment Recommendations, Insights & Recommendations Based on Analytics, Predictive Modeling & Forecasting]
 index: 3
 ---

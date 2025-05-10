@@ -1,6 +1,6 @@
 ---
 title: "Statistics Without Borders Term Project"  
-image: "https://placehold.co/600x400?text=Attribution+Model"
+image: "https://placehold.co/600x400?text=Statistics+Without+Borders+Term+Project"
 categories: [Customer Behavior Analysis, Survey Design & Data Collection, Attitude Measurement & Segmentation, Statistical Techniques, Risk & Concern Analysis, Practical Insights & Recommendations, Data-Driven Analysis & Quantitative Methods, Predictive Modeling & Forecasting, Visual Exploration & Interpretation, Segmentation & Comparative Analysis Insights & Recommendations Based on Analytics]
 index: 4
 ---
