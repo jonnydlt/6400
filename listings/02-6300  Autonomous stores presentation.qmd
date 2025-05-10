@@ -9,7 +9,7 @@ index: 2
 
 This project analyzed the impact of autonomous store features on customer patronage, focusing on key factors like convenience, autonomy, and safety. Using a conjoint analysis approach with 700 UK participants, the study explored how different levels of in-store automation affected customer decisions. Findings revealed significant insights into customer preferences, which guided recommendations for optimizing autonomous store designs.
 
-### Link 
+#### **Link** 
 [View Autonomous Stores Presentation](https://raw.githubusercontent.com/jonnydlt/6400/main/images/6300%20%20Autonomous%20stores%20presentation.pptx.pdf)
 
 ::::: columns
