@@ -6,7 +6,7 @@ index: 4
 ---
 
 ### Link 
-[View Autonomous Stores Presentation](https://github.com/your-username/your-repository-name/blob/main/images/6300%20Autonomous%20Stores%20presentation.pptx.pdf)
+[View Statistics Without Borders Term Project Presentation](https://github.com/jonnydlt/6400/blob/main/images/6530%20Statistics%20without%20borders%20Term%20Project.pdf)
 
 #### **Overview**  
 This project, titled "Statistics Without Borders: Survey Data Generation & Analysis," focused on understanding students' perceptions, usage, and concerns regarding generative AI tools at Cal Poly Pomona (CPP). Using a stratified survey approach, the study explored various aspects of AI interaction, including familiarity with AI tools, perceived risks, support needs, and differences in attitudes based on technical expertise. Key insights revealed significant concerns around data privacy, academic integrity, and critical thinking. The analysis also identified a strong demand for clear guidelines and training on effective AI usage.
