@@ -2,7 +2,7 @@
 title: "Résumé"
 ---
 
-You can view a PDF version of my résumé [here](resume/resume.pdf).
+You can view a PDF version of my résumé [here](resume/resume.pdf){target="_blank"}
 
 
 # Professional Summary
@@ -25,14 +25,12 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 
 | Degree | Year | College / Department | Institution |
 |------------------|------------------|-------------------|------------------|
-| Master of Science in Digital Marketing | 2023 – Expected Graduation 2025 | College of Business Administration | California State Polytechnic University, Pomona |
-
-| Master of Science in Digital Marketing \| 2010 – 2015 \| College of Letters, Arts, and Social Sciences \| California State Polytechnic University, Pomona \|
+|Master of Science in Digital Marketing|2023 – Expected Graduation 2025|College of Business Administration|California State Polytechnic University, Pomona|
+Bachelor of Arts in English Literature and Language|2010 – 2015|College of Letters, Arts, and Social Sciences|California State Polytechnic University, Pomona|
 
 # Work Experience
 
 ### Technical Writer –Senior Specialist, Southern California Edison
-
 *12/2022 – Present*
 
 -   Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients
@@ -45,7 +43,6 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 ------------------------------------------------------------------------
 
 ### Project Coordinator, JMDiaz Inc
-
 *01/2022 – 11/2022*
 
 -   Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients
@@ -56,7 +53,6 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 ------------------------------------------------------------------------
 
 ### Technical Writer, Robert H. Peterson Company
-
 *07/2015 – 12/2021*
 
 -   Was in charge of upkeep for over 900 digital records, including instruction manuals, addendums, and misc forms
@@ -69,7 +65,6 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 ------------------------------------------------------------------------
 
 ### Technical Writer Intern, Robert H. Peterson Company
-
 *08/2014 – 06/2015*
 
 -   Created line drawings and photos of products, with emphasis in fireplaces and outdoor fire features
@@ -80,7 +75,6 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 ------------------------------------------------------------------------
 
 ### Early Start English Summer Tutor, California State Polytechnic University, Pomona
-
 *06/2014 – 09/2014*
 
 -   Facilitated online interactions with incoming freshman students in the early start English program
@@ -92,7 +86,6 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 # Volunteer Experience
 
 ### Don Bosco Technical Institute, Alumni Association’s Secretary
-
 *09/2017 – 09/2019*
 
 -   Recorded minutes, created agendas for all meetings, and dispersed both minutes/agendas to all association members
@@ -100,7 +93,6 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 -   Assisted committee with planning for the annual alumni retreat, golf tournament, and Black and Gold Gala
 
 ### Don Bosco Technical Institute, Alumni Association
-
 *09/2015 – 09/2017*
 
 -   Attended alumni meetings and assisted current students with planning their education and careers in STEM
