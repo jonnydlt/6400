@@ -1,8 +1,8 @@
 ---
-title: "Résumé"
+title: "Resume"
 ---
 
-You can view a PDF version of my résumé [here](resume/resume.pdf){target="_blank"}
+You can view a PDF version of my resume [here](resume/resume.pdf){target="_blank"}
 
 
 # Professional Summary
