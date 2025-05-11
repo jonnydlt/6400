@@ -157,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="about-me" class="level2">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
 <p>I’m a Technical Writer – Senior Specialist at Southern California Edison and a Master of Science in Digital Marketing candidate at Cal Poly Pomona, graduating in Summer 2025. With a background in English Literature and over a decade of writing experience, I specialize in transforming complex information into clear, engaging, and actionable insights—whether through regulatory documentation, marketing analytics, or data-driven storytelling.</p>
-<p>I’ve written and managed over 900 pages of technical documentation, collaborated across regulatory, legal, and program teams, and contributed to high-stakes reporting initiatives. My academic work extends that clarity into digital strategy, using tools like R, Python, and Quarto to uncover insights and build reproducible workflows.</p>
+<p>I’ve written and managed over 900 pages of technical documentation, collaborated across regulatory, legal, and program teams, and contributed to high-stakes reporting initiatives. My academic work extends that clarity into digital strategy, using tools like R and Quarto to uncover insights and build reproducible workflows.</p>
 </section>
 <section id="what-i-do" class="level2">
 <h2 class="anchored" data-anchor-id="what-i-do">What I Do</h2>
@@ -268,7 +268,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/jonnydlt\.github\.io\/6400\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
