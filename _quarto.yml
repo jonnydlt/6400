@@ -18,5 +18,5 @@ website:
 
 format:
   html:
-    theme: [flatly, theme.scss]
+    theme: [jekyll-theme-minimal]
     toc: true 
