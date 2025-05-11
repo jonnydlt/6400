@@ -19,5 +19,4 @@ website:
 format:
   html:
     theme: [flatly, theme.scss]
-    toc: true
-
+    toc: true 
