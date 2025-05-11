@@ -1,55 +1,105 @@
 ---
-title: "Résumé"
+title: "Resume"
 ---
 
-```{r knit-resume, echo=FALSE, message=FALSE}
-rmarkdown::render(
-  "resume/Resume.Rmd",
-  output_format = "pdf_document",
-  output_file   = "Resume.pdf",
-  output_dir    = "resume",
-  quiet         = TRUE
-)
-```
-
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
+You can view a PDF version of my résumé [here](resume/resume.pdf).
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+Motivated and detail-oriented marketing and analytics professional with a strong background in data analysis, digital marketing strategy, and technical writing. Proven experience in managing complex projects, producing clear technical documents, and leveraging digital tools to drive effective communication. Adept at collaborating cross-functionally to achieve objectives and deliver high-quality work under tight deadlines.
+
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Programming Languages:** R, SQL.
+- **Web Technologies:** HTML, CSS/SCSS, Quarto, Content Management Systems (CMS), Google Analytics, GTM (Google Tag Manager).
+- **Data Analysis Tools:** RStudio, Excel, Power BI, Tableau.
+- **Digital Marketing Tools:** SEO, SEM, Social Media Advertising, Email Marketing, A/B Testing.
+- **Survey and Research Platforms:** Qualtrics, Google Forms.
+- **Machine Learning & Statistical Methods:** Regression Analysis, Clustering, Forecasting, Conjoint Analysis.
+- **Documentation and Technical Writing:** Microsoft Word, Adobe Acrobat, Adobe Creative Cloud (Illustrator, Photoshop).
+- **Project Management:** Microsoft Teams, OneDrive, SharePoint.
+- **Soft Skills:** Strong communication, leadership, and teamwork capabilities.
 
 # Education
 
 | Degree                             | Year                          | College / Department                 | Institution         |
 | ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| [Master of Science in Digital Marketing]                     | [2023 – Expected Graduation 2025]     | [College of Business Administration]        | [California State Polytechnic University, Pomona]   |
+| [Bachelor of Arts in English Literature and Language] | [2010 – 2015]            | [College of Letters, Arts, and Social Sciences]        | [California State Polytechnic University, Pomona]   |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### [Technical Writer –Senior Specialist], [Southern California Edison]  
+*[12/2022 – Present]*
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+- [Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients]
+- [Tracked multiple projects and works with experts across multiple disciplines to ensure feasibility of proposals/bids]  
+- [Provided technical writing support to marketing department as needed for website and public relations content] 
+- [Assisted with maintaining internal document archive, style guide standards, templates, and forms]
 
 ---
 
+### [Project Coordinator], [JMDiaz Inc]  
+*[01/2022 – 11/2022]*
+
+- [Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients]
+- [Tracked multiple projects and works with experts across multiple disciplines to ensure feasibility of proposals/bids]  
+- [Provided technical writing support to marketing department as needed for website and public relations content] 
+- [Assisted with maintaining internal document archive, style guide standards, templates, and forms]
+
+---
+
+### [Technical Writer], [Robert H. Peterson Company]  
+*[06/2015 – 12/2021]*
+
+- [Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients]
+- [Tracked multiple projects and works with experts across multiple disciplines to ensure feasibility of proposals/bids]  
+- [Provided technical writing support to marketing department as needed for website and public relations content] 
+- [Assisted with maintaining internal document archive, style guide standards, templates, and forms]
+
+---
+### [Technical Writer Intern], [Robert H. Peterson Company]  
+*[08/2014 – 06/2015]*
+
+- [Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients]
+- [Tracked multiple projects and works with experts across multiple disciplines to ensure feasibility of proposals/bids]  
+- [Provided technical writing support to marketing department as needed for website and public relations content] 
+- [Assisted with maintaining internal document archive, style guide standards, templates, and forms]
+
+---
+### [Early Start English Summer Tutor], [California State Polytechnic University, Pomona]  
+*[06/2014 – 09/2014]*
+
+- [Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients]
+- [Tracked multiple projects and works with experts across multiple disciplines to ensure feasibility of proposals/bids]  
+- [Provided technical writing support to marketing department as needed for website and public relations content] 
+- [Assisted with maintaining internal document archive, style guide standards, templates, and forms]
+
+---
 ### [Job Title], [Company or Organization]  
 *[Start Date – End Date]*
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+- [Coordinated with multiple internal departments to draft project proposals and bids for submission to prospective clients]
+- [Tracked multiple projects and works with experts across multiple disciplines to ensure feasibility of proposals/bids]  
+- [Provided technical writing support to marketing department as needed for website and public relations content] 
+- [Assisted with maintaining internal document archive, style guide standards, templates, and forms]
 
+---
+
+# Work Experience
+### [Don Bosco Technical Institute], [Alumni Association’s Secretary]  
+*[09/2017 – 09/2019]*
+
+- [Recorded minutes, created agendas for all meetings, and dispersed both minutes/agendas to all association members]  
+- [Tracked and accounted for attendance, event participation, and alumni association board member donation amounts]  
+- [Assisted committee with planning for the annual alumni retreat, golf tournament, and Black and Gold Gala ]  
+---
+
+### [Don Bosco Technical Institute], [Alumni Association]  
+*[09/2015 – 09/2017]*
+
+- [Attended alumni meetings and assisted current students with planning their education and careers in STEM]  
+- [Assisted with raising financial aid funds for qualified students to provide equal access to education]  
+- [Promoted and fostered a positive spirit in alumni to further increase involvement with the school]  
 ---
