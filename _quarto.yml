@@ -18,5 +18,5 @@ website:
 
 format:
   html:
-    theme: [midnight, theme.scss]
+    theme: [flatly, theme.scss]
     toc: true 
