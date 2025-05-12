@@ -16,6 +16,7 @@ I'm a technical writer and digital marketer. I transform raw data into actionabl
 
 I’m a Technical Writer – Senior Specialist at Southern California Edison and a Master of Science in Digital Marketing candidate at Cal Poly Pomona, graduating in Summer 2025. With a background in English Literature and over a decade of writing experience, I specialize in transforming complex information into clear, engaging, and actionable insights—whether through regulatory documentation, marketing analytics, or data-driven storytelling.
 
+
 I’ve written and managed over 900 pages of technical documentation, collaborated across regulatory, legal, and program teams, and contributed to high-stakes reporting initiatives. My academic work extends that clarity into digital strategy, using tools like R and Quarto to uncover insights and build reproducible workflows.
 
 ## What I Do

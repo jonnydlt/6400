@@ -6,6 +6,7 @@ index: 5
 ---
 
 #### **Overview**  
+
 The Student Exam Scores Project aimed to investigate the impact of two critical factors on students' academic performance in mathematics, reading, and writing. Specifically, the project focused on examining the effects of completing a test preparation course and parental education level on students' exam scores. Using machine learning models, including linear regression and random forest, the analysis explored how these independent variables influence students' scores across the three subjects. The results provided insights into the significance of these factors and highlighted the predictive capabilities of the models used.
 
 #### **Link** 
